@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BasicCalculator</string>
+    <string name="url">Github : <u>https://github.com/asmita-bhar</u></string>
+    <string name="me"><i><b>-Asmita Bhar, Final Year,  B.Tech(CSE), NIT Durgapur.</b></i></string>
 </resources>
